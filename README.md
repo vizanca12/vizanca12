@@ -10,6 +10,8 @@ I enjoy designing controllers and testing them in simulation: multi-agent format
 
 | Project | Summary | Tools |
 |---|---|---|
+| [Drone formation control](https://github.com/vizanca12/drone-formation-control) | Research internship (U2IS lab, ENSTA Paris): leader-follower consensus control of three quadrotors with obstacle avoidance, tested in simulation and real flight | Python, MuJoCo |
+| [3-DOF robotic arm control](https://github.com/vizanca12/robotic-arm-3dof-control) | Joint PID tuning with `looptune` and frequency-domain controller design for a Simscape Multibody arm | MATLAB, Simulink, Simscape |
 | [Autonomous boat navigation](https://github.com/vizanca12/blueboat-navigation-sim) | Path generation, path tracking and obstacle avoidance simulator for the BlueBoat (ENSTA team project) | Python, Pygame |
 | [Mobile robot SLAM](https://github.com/vizanca12/mobile-robot-slam) | Occupancy-grid SLAM, A* planning and frontier-based exploration | Python |
 | [Control theory labs](https://github.com/vizanca12/control-theory-labs) | State-space modeling, controllability, state feedback, observers, LQR and MPC | Python, Jupyter |
